@@ -1,0 +1,22 @@
+
+#ifndef CONSTANTS
+#define CONSTANTS
+
+#define _CRT_SECURE_NO_WARNINGS
+
+#define SIZE_FOR_FULL_PRINT 4112
+#define NAME_LENGTH 64
+#define BUFFER_LENGTH 1024
+#define LONG_BUFFER_LENGTH 8192
+#define MAX_STUDENATA 9999
+#define MAX_PREDMETA 999
+#define MAX_PROFESORA 999
+#define BUFFER_LEN 1024
+#define ID_LENGTH 4
+#define BUFFER_DECREMENTER (ID_LENGTH + 3)
+
+#define ERROR -1
+#define END -1
+#define SUCCESS 0
+
+#endif

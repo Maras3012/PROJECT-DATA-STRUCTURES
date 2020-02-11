@@ -1,0 +1,10 @@
+Kreiranje unosa za studente:
+--> funkcija unesiStudenta 
+    - koristi funkciju DodajAVL
+    - treba dodati studenta u datoteku 'Studenti.txt'
+    - treba dodati studenta u datoteku 'StudentiPotpunaTablica.txt'
+    
+
+--> funkcija generiranjaAVL_Studenti 
+    - treba provjeriti ako je ocjena -1 i preskociti stvaranje instance vezane liste
+    
